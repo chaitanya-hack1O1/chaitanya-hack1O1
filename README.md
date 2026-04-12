@@ -14,7 +14,7 @@
 
 I'm **MainEkHacker**, an aspiring **Cybersecurity Professional**, **Ethical Hacker**, and **Security Content Creator** from **India** — on a mission to master offensive security through hands-on learning, labs, and real-world practice.
 
-I run **[MainEKHacker](https://youtube.com/@MainEKHacker)** — a growing cybersecurity YouTube channel where I share hacking labs, penetration testing walkthroughs, tool demos, and security content to help students and enthusiasts break into the field.
+I run **[MainEKHacker](https://youtube.com/@MainEKHacker)** — a growing cybersecurity YouTube channel where I share hacking labs, penetration testing walkthroughs, tool demos, and security content.
 
 With a strong focus on **web application security**, **vulnerability assessment**, and **offensive security fundamentals**, I bridge the gap between theory and practice — one lab at a time.
 
@@ -25,7 +25,7 @@ With a strong focus on **web application security**, **vulnerability assessment*
 
 - **Handle:** Main Ek Hacker
 - **From:** India
-- **Role:** Aspiring Red Teamer | Penetration Tester | Ethical Hacker | Security Content Creator
+- **Role:** Aspiring Red Teamer | Penetration Tester | Ethical Hacker 
 - **Channel:** MainEKHacker — YouTube & Medium
 
 **Core Focus Areas:**
