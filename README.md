@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Chaitanya+%F0%9F%91%8B;Aspiring+Red+Teamer+%F0%9F%94%B4;Penetration+Tester+%F0%9F%95%B5%EF%B8%8F;Web+Security+%26+OWASP+Enthusiast+%F0%9F%8C%90;Bug+Bounty+Hunter+%F0%9F%90%9B;CTF+Player+%7C+TryHackMe+Warrior+%F0%9F%9A%A9;Security+Content+Creator+%F0%9F%8E%A5;Ethical+Hacker+%7C+Lifelong+Learner+%F0%9F%93%9A;Think+Like+An+Attacker.+Defend+Like+A+Pro.+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B;Aspiring+Red+Teamer+%F0%9F%94%B4;Penetration+Tester+%F0%9F%95%B5%EF%B8%8F;Web+Security+%26+OWASP+Enthusiast+%F0%9F%8C%90;Bug+Bounty+Hunter+%F0%9F%90%9B;CTF+Player+%7C+TryHackMe+Warrior+%F0%9F%9A%A9;Security+Content+Creator+%F0%9F%8E%A5;Ethical+Hacker+%7C+Lifelong+Learner+%F0%9F%93%9A;Think+Like+An+Attacker.+Defend+Like+A+Pro.+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ---
